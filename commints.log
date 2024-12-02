@@ -1,0 +1,85 @@
+commit 388e79b51f374e8ba7fee4cd51ade48c29d817e3
+Author: Vera Martín <vera124486@gmail.com>
+Date:   Mon Dec 2 17:12:06 2024 -0500
+
+    Los 4 Vera de XOXO
+
+commit 77c4df09d10b1019dc0de34041a5dbb863423823
+Author: Vera Martín <vera124486@gmail.com>
+Date:   Mon Dec 2 17:05:01 2024 -0500
+
+     Estaciones
+
+commit 97510d584babf4b54866a46210755b0e2788b3f3
+Merge: dea17c6 c4acbfc
+Author: Vera Martín <vera124486@gmail.com>
+Date:   Mon Dec 2 16:58:29 2024 -0500
+
+    Resolviendo el Merge
+
+commit dea17c66d23c7ed59bb366893dd5b13073e71cbf
+Author: Vera Martín <vera124486@gmail.com>
+Date:   Mon Dec 2 16:51:02 2024 -0500
+
+    Agregando en en index html
+
+commit c4acbfc676362cbb9d40fd7e8493564b847f638e
+Author: Vera Martín <vera124486@gmail.com>
+Date:   Mon Dec 2 16:42:58 2024 -0500
+
+    Usando el Merge
+
+commit c899ea06244a8dc8158cc70ea3da6b31fdb41ad1
+Author: Vera Martín <vera124486@gmail.com>
+Date:   Sat Nov 30 17:50:06 2024 -0500
+
+    Agreando Stilo
+
+commit 2a14419452ce62a8a5e8a6d331eace6dbbc46dca
+Merge: 16c2ae3 8280333
+Author: Vera Martín <vera124486@gmail.com>
+Date:   Sat Nov 30 17:31:46 2024 -0500
+
+    Merge branch 'js'
+
+commit 82803339e8bcd47ed37bc277b9b3433df75cb3d3
+Author: Vera Martín <vera124486@gmail.com>
+Date:   Sat Nov 30 17:25:10 2024 -0500
+
+    Creando index.Js
+
+commit 16c2ae307f38afe1f43ebd7293e50badc99b8a1a
+Author: Vera Martín <vera124486@gmail.com>
+Date:   Sat Nov 30 17:21:13 2024 -0500
+
+    Creando Style.css
+
+commit a373125b6f8d49314eba26d84f50f83202bfd061
+Author: Vera Martín <vera124486@gmail.com>
+Date:   Sat Nov 30 17:17:12 2024 -0500
+
+    Primer Archivo index.html
+
+commit 3eedf83e6583192d37313924fd0fdff8766c365d
+Author: Vera Martín <vera124486@gmail.com>
+Date:   Sat Nov 30 17:00:13 2024 -0500
+
+     Ignorando archivos .exe
+
+commit 42f6c4ae55c5ccaee9f16416cbf66ea1790d6950
+Author: Vera Martín <vera124486@gmail.com>
+Date:   Fri Nov 29 19:26:15 2024 -0500
+
+    Añadiendo mas cotenido al README
+
+commit 56fe7f2ce7849272948536c0e000f70598e731bf
+Author: Vera Martín <vera124486@gmail.com>
+Date:   Fri Nov 29 19:04:27 2024 -0500
+
+    Agregando Contenido Inicial al README
+
+commit 447737ec2a59867d0f6e632b69e50372de2ebb91
+Author: Vera Martín <vera124486@gmail.com>
+Date:   Fri Nov 29 18:54:44 2024 -0500
+
+    Primer commit
